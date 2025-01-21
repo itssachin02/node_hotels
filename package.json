@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "its a nodejs tutorial",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon server.js"
+  },
+  "author": "sachin gupta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "mongoose": "^8.9.2",
+    "nodemon": "^3.1.7"
+  }
+}
